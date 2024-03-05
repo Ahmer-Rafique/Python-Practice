@@ -24,3 +24,6 @@ b= a.copy()
 c= list(a)
 print(c)
 print(b)
+# Change the Value
+a[1]="ahmer"
+print(a)
