@@ -27,3 +27,6 @@ print(b)
 # Change the Value
 a[1]="ahmer"
 print(a)
+# Change Value by insert method 
+a.insert(2 , "Mamoon")
+print(a)
