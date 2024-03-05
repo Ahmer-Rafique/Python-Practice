@@ -17,3 +17,10 @@ print(a[0:3:2])
 # List Constructor()
 a:list=(("Ahmer" , "Ali"))
 print(a)
+# Copy Method 
+a:list=["a","b","c"]
+print(a)
+b= a.copy()
+c= list(a)
+print(c)
+print(b)
