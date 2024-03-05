@@ -14,3 +14,6 @@ print(a[:3])
 print(a[-3:-1])
 # To find Skip
 print(a[0:3:2])
+# List Constructor()
+a:list=(("Ahmer" , "Ali"))
+print(a)
