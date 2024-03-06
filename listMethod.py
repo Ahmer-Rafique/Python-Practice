@@ -30,3 +30,10 @@ print(a)
 # Change Value by insert method 
 a.insert(2 , "Mamoon")
 print(a)
+# Add value in list by append method 
+d = ["Ahmer", "Ali", "Mamoon"];
+print(d)
+d.append( "Arooj Ahmer")
+print(d);
+d.append("Mamoon");
+print(d);
