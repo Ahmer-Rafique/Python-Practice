@@ -37,3 +37,6 @@ e=["Ahmer and Arooj is lover and fauter wife husband "]
 d.append("mamoon is the brother of Ahmer Ali")
 d.extend(e)
 print(d);
+# Remove method of the element
+d.remove("Ahmer")
+print(d)
