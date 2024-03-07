@@ -41,5 +41,5 @@ print(d);
 d.remove("Ahmer")
 print(d)
 # Pop meyhod for removing method
-d.pop()
+d.pop(0)
 print(d)
