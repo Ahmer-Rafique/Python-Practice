@@ -40,3 +40,6 @@ print(d);
 # Remove method of the element
 d.remove("Ahmer")
 print(d)
+# Pop meyhod for removing method
+d.pop()
+print(d)
