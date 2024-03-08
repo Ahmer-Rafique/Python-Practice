@@ -6,3 +6,6 @@ print(a)
 # Count Method
 d = a.count("a")
 print(d)
+# * method
+name =["Ahmer ","is","Developer"]
+print(*name)
