@@ -1,5 +1,6 @@
  # Sort Method 
-a =["d","e" , "b", "a"]
+a =["a","b" ,"c", "d"]
 print(a);
-a.sort()
+a.sort(reverse=True)
 print(a)
+
