@@ -48,3 +48,8 @@ ahmer =["a", "b","c","d"]
 print(ahmer)
 del ahmer[1]
 print(ahmer)
+# Clear Method
+mamoon=["m","a","m","0","0","n"]
+print(mamoon);
+mamoon.clear()
+print(mamoon);
