@@ -33,7 +33,7 @@ print(a)
 # Add value in list by append method 
 d = ["Ahmer", "Ali", "Mamoon"];
 print(d)
-e=["Ahmer and Arooj is lover and fauter wife husband "]
+e=["Ahmer is Future Developer"]
 d.append("mamoon is the brother of Ahmer Ali")
 d.extend(e)
 print(d);
