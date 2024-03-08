@@ -43,3 +43,8 @@ print(d)
 # Pop meyhod for removing method
 d.pop(0)
 print(d)
+# Delete method for remove value from Arry
+ahmer =["a", "b","c","d"]
+print(ahmer)
+del ahmer[1]
+print(ahmer)
