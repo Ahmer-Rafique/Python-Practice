@@ -1,3 +1,5 @@
-a = ["a", "b","c","d"]
+a = ["b", "d","r","e"]
 b= enumerate(a , 100)
-print(list(b))
+#print(tuple(b))
+#print(list(b))
+print(dict(b))
